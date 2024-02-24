@@ -1,1 +1,1 @@
-# circuit-breaker-practice
+# resilience4j-practice
