@@ -1,6 +1,5 @@
 package dev.yoon.resilien4jpractice.retry
 
-import dev.yoon.resilien4jpractice.exception.IgnoreException
 import dev.yoon.resilien4jpractice.exception.RetryException
 import io.github.resilience4j.retry.annotation.Retry
 import org.slf4j.LoggerFactory
