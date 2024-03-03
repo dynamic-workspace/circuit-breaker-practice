@@ -27,6 +27,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.springframework.cloud:spring-cloud-starter-circuitbreaker-resilience4j")
     implementation("org.springframework.boot:spring-boot-starter-aop")
+    implementation("org.redisson:redisson-spring-boot-starter")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
